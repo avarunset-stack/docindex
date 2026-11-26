@@ -1,7 +1,7 @@
 {
-  "name": "Quick Capture",
-  "short_name": "Capture",
-  "description": "Quick Capture",
+  "name": "Doc Index",
+  "short_name": "DIndex",
+  "description": "Doc INdex",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
